@@ -69,7 +69,7 @@
 
 @media screen and (min-width: 768px) {
   .company-description-wrapper {
-    background-image: url('../assets/images/PC_Company_gray.svg');
+    background-image: url('PC_Company_gray.svg');
     padding: 136px 0;
   }
   .company-description-title {
@@ -124,7 +124,7 @@
 
 @media screen and (max-width: 767px) {
   .company-description-wrapper {
-    background-image: url('../assets/images/SP_Company_gray.svg');
+    background-image: url('SP_Company_gray.svg');
     padding: 48px 0;
   }
   .company-description-title {
